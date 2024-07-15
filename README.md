@@ -1,6 +1,6 @@
 # Foro Alura API
 
-![Imagen](badge-literalura.png)
+![Imagen](Badge-Spring.png)
 
 API RESTful para el Foro Alura, permitiendo a los usuarios gestionar tópicos, respuestas, cursos y usuarios.
 
